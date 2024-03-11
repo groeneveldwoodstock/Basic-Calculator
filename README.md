@@ -7,7 +7,6 @@ If you want to build your own Mac App you can use Py2App.
 <br>
 A working setup.py file and Mac Icon are provided. 
 <hr>
-<br>
 Mac App Screenshot
 <img src="https://github.com/groeneveldwoodstock/Basic-Calculator/blob/main/CalcScreenshot.png" alt="Screen Shot" style="width:200px;">
   </body>
