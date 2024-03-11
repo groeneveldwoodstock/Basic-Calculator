@@ -1,5 +1,7 @@
 # Basic-Calculator
-A basic calculator built in Python with TKinter library. Windows installer available to download. Build your own Mac App with the Python setup script. 
+A basic calculator built in Python with TKinter library. Windows installer available to download. 
+<br>
+Build your own Mac App with the Python setup script. 
 <hr>
 <h4><a href="https://github.com/groeneveldwoodstock/Basic-Calculator/blob/main/installBasicCalculator.exe" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
 <hr>
